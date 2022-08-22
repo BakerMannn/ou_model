@@ -1,0 +1,8 @@
+pandas
+numpy
+openpyxl
+seaborn
+matplotlib
+meteostat
+sklearn
+xgboost
